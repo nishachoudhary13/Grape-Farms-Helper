@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>two-bunches-of-green-young-concord-grapes.jpg</filename>
+	<path>D:\Btech Project\grapes\validation\images\two-bunches-of-green-young-concord-grapes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>1401</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>677</ymin>
+			<xmax>549</xmax>
+			<ymax>1317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>105</ymin>
+			<xmax>790</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+</annotation>

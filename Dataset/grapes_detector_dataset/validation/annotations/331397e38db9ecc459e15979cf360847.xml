@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>331397e38db9ecc459e15979cf360847.jpg</filename>
+	<path>D:\Btech Project\grapes\validation\images\331397e38db9ecc459e15979cf360847.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>574</ymin>
+			<xmax>883</xmax>
+			<ymax>1612</ymax>
+		</bndbox>
+	</object>
+</annotation>

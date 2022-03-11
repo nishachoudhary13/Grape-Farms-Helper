@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bunch-green-grapes-garden-hanging-bush-vineyard-close-up-view-rain-164530210.jpg</filename>
+	<path>D:\Btech Project\grapes\training\images\bunch-green-grapes-garden-hanging-bush-vineyard-close-up-view-rain-164530210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1155</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>210</ymin>
+			<xmax>953</xmax>
+			<ymax>943</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1234</xmin>
+			<ymin>689</ymin>
+			<xmax>1600</xmax>
+			<ymax>1069</ymax>
+		</bndbox>
+	</object>
+</annotation>

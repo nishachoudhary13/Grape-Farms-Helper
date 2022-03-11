@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images295.jpg</filename>
+	<path>D:\Btech Project\grapes\training\images\images295.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>6</ymin>
+			<xmax>222</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>75</ymin>
+			<xmax>252</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

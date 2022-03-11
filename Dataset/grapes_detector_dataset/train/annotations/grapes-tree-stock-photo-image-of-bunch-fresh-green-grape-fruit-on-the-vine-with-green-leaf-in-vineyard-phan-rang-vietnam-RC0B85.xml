@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>grapes-tree-stock-photo-image-of-bunch-fresh-green-grape-fruit-on-the-vine-with-green-leaf-in-vineyard-phan-rang-vietnam-RC0B85.jpg</filename>
+	<path>D:\Btech Project\grapes\training\images\grapes-tree-stock-photo-image-of-bunch-fresh-green-grape-fruit-on-the-vine-with-green-leaf-in-vineyard-phan-rang-vietnam-RC0B85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>244</ymin>
+			<xmax>833</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>

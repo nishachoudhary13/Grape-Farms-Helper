@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>grapes-wine-fruit-vines.jpg</filename>
+	<path>D:\Btech Project\grapes\training\images\grapes-wine-fruit-vines.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>910</width>
+		<height>607</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>28</ymin>
+			<xmax>620</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>grape-vine-with-bunch-of-green-grapes.jpg</filename>
+	<path>D:\Btech Project\grapes\training\images\grape-vine-with-bunch-of-green-grapes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>1455</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>80</ymin>
+			<xmax>850</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>564</ymin>
+			<xmax>530</xmax>
+			<ymax>1391</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>close-up-bunch-fresh-green-grapes-green-sunny-leaves-background-garden_76043-19.jpg</filename>
+	<path>D:\Btech Project\grapes\validation\images\close-up-bunch-fresh-green-grapes-green-sunny-leaves-background-garden_76043-19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>877</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>97</ymin>
+			<xmax>570</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+</annotation>

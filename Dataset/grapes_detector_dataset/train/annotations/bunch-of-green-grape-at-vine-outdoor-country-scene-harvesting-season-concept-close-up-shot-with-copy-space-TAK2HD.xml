@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bunch-of-green-grape-at-vine-outdoor-country-scene-harvesting-season-concept-close-up-shot-with-copy-space-TAK2HD.jpg</filename>
+	<path>D:\Btech Project\grapes\training\images\bunch-of-green-grape-at-vine-outdoor-country-scene-harvesting-season-concept-close-up-shot-with-copy-space-TAK2HD.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>954</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>666</xmin>
+			<ymin>240</ymin>
+			<xmax>929</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grapes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>17</ymin>
+			<xmax>792</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>
